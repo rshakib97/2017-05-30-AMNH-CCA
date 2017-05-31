@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 some of will work here
 some of us will work at AMNH
 some of will work here
 some of us will work at AMNH
+=======
+hello world this is a new one
+>>>>>>> loops
